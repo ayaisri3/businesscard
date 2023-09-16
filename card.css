@@ -1,0 +1,22 @@
+ body{
+    margin: 20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+ }
+ 
+ .logo{
+    
+    width: 150px;
+    
+    
+}
+.card{ 
+    color: rgb(32, 1, 32);
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(185, 177, 192);
+}
